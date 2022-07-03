@@ -16,13 +16,11 @@ C Sharp(Visual Studio Editor)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Youtube](https://www.youtube.com/)
 * [Unity Asset Store](https://assetstore.unity.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Fix animations of player
 * Add purpose or story to it
 * Make and add sound so it works
