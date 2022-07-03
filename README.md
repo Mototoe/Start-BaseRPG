@@ -6,7 +6,7 @@ I made this project to help further my understanding of game framework and get s
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/EfrzwZcb0mE)
 
 # Development Environment
 
